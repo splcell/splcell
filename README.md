@@ -63,6 +63,9 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=splcell&theme=slateorange"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=splcell&theme=slateorange"/>
 </div>
+<hr>
+
+
 
 
 

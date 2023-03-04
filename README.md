@@ -11,9 +11,6 @@
   <a href="https://wa.me/qr/OCE25BZA37FSD1">
   <img src="https://img.shields.io/badge/WhatsApp-yellow?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>&nbsp
   </a>
-  <a href="splcell2013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>&nbsp
-  </a>
   <a href="https://novosibirsk.hh.ru/resume/ac8e38edff0b1a7ea90039ed1f4f673165734b">
   <img src="https://img.shields.io/badge/HH.ru-yellow?style=for-the-badge&logo=headhunter&logoColor=white" alt="hh.ru"/>&nbsp
 </a>

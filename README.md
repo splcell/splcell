@@ -37,7 +37,7 @@
 <br>
 <li align="center">
 :bell: <b>Открыт к предложениям о работе</b>  &nbsp; | &nbsp;
-:telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/splcell">Telegram</a></b>  &nbsp;/ &nbsp; <b><a href="" mailto:splcell2013@gmail.com>Email</a></b>
+:telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/splcell">Telegram</a></b>  &nbsp;/ &nbsp; <b><a href="https://wa.me/qr/OCE25BZA37FSD1">Whatsapp</a></b>
 </li>
 <hr>
 <div id="technologies" align="center" display="inline">

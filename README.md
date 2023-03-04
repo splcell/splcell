@@ -4,7 +4,7 @@
   <h2>Добро пожаловать в мой профиль Github.👋</h2>
   <hr>
 </div>
-<h3 align="center">Мои контакты</h3>
+<h3 align="center">Мои контакты:</h3>
 <div id="socials" align="center">
   <a href="https://t.me/splcell">
 	<img src="https://img.shields.io/badge/TeleGram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>&nbsp

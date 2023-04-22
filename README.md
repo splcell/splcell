@@ -2,6 +2,7 @@
 	<h2>Добрый день! Я Дмитрий Кудрявцев, frontend-разработчик из Новосибирска</h2>
   <br>
   <h2>Добро пожаловать в мой профиль Github.👋</h2>
+  <img src="https://komarev.com/ghpvc/?username=splcell"/>
   <hr>
 </div>
 <h3 align="center">Мои контакты:</h3>
@@ -59,11 +60,15 @@
 <hr>
 <h3 align="center">Статистика профиля</h3>
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=splcell&theme=slateorange"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=splcell&theme=slateorange"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splcell&theme=slateorange"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=splcell&theme=slateorange"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=splcell&theme=slateorange"/>
+	
 </div>
 <hr>
+
+
 
 
 

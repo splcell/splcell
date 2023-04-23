@@ -60,7 +60,6 @@
 <hr>
 <h3 align="center">Статистика профиля</h3>
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=splcell&theme=slateorange"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splcell&theme=slateorange"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=splcell&theme=slateorange"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=splcell&theme=slateorange"/>
